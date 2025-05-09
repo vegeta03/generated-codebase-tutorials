@@ -8,7 +8,7 @@ This repository contains comprehensive tutorials that break down complex codebas
 
 ## Available Tutorials
 
-### [Angular-NgRx-Nx Realworld Example App](./angular-ngrx-nx-realworld-example-app/index.md)
+### [Angular-NgRx-Nx Realworld Example App by GPT-4.1](./angular-ngrx-nx-realworld-example-app%20by%20gpt-4.1/index.md)
 
 A detailed exploration of a Medium-like blogging platform built with:
 
@@ -18,6 +18,21 @@ A detailed exploration of a Medium-like blogging platform built with:
 - Domain-driven design principles
 
 This tutorial breaks down advanced patterns for reactive state management, API integration, error handling, and component architecture.
+
+### [Angular-NgRx-Nx Realworld Example App by O4-Mini-High](./angular-ngrx-nx-realworld-example-app%20by%20o4-mini-high/index.md)
+
+An alternative analysis of the same codebase with a focus on:
+
+- Nx Monorepo workspace organization
+- NgRx Signals for state management
+- CallState pattern for tracking asynchronous operations
+- API Client abstraction layer
+- Authentication and article data management
+- Smart vs. Dumb component patterns
+- Form error handling mechanisms
+- E2E testing with Playwright
+
+This version provides additional insights into testing strategies and component architecture with 11 detailed chapters.
 
 ## How to Use
 
