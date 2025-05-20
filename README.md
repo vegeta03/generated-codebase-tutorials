@@ -8,7 +8,7 @@ This repository contains comprehensive tutorials that break down complex codebas
 
 ## Available Tutorials
 
-### [Angular-NgRx-Nx Realworld Example App by GPT-4.1](./angular-ngrx-nx-realworld-example-app%20by%20gpt-4.1/index.md)
+### [Angular-NgRx-Nx Realworld Example App](./angular-ngrx-nx-realworld-example-app/index.md)
 
 A detailed exploration of a Medium-like blogging platform built with:
 
@@ -17,30 +17,33 @@ A detailed exploration of a Medium-like blogging platform built with:
 - Nx monorepo architecture
 - Domain-driven design principles
 
-This tutorial breaks down advanced patterns for reactive state management, API integration, error handling, and component architecture.
+The tutorial consists of 14 comprehensive chapters covering:
 
-### [Angular-NgRx-Nx Realworld Example App by O4-Mini-High](./angular-ngrx-nx-realworld-example-app%20by%20o4-mini-high/index.md)
+1. Nx Monorepo Library Architecture
+2. Domain Model Typing System
+3. API Client Service with HTTP Interceptors
+4. Authentication Signal Store with JWT Management
+5. Feature-based Routing Configuration
+6. NgRx Signal Store State Management (Articles Domain)
+7. Entity Relationship Management in Stores
+8. Standalone Component Architecture with Lazy Loading
+9. Dynamic Component Loading System
+10. Centralized Form Validation Directives
+11. Reactive Form Error Management System
+12. Reactive Route Resolvers
+13. Zoneless Change Detection Configuration
+14. Feature Flag System via Environment Configuration
 
-An alternative analysis of the same codebase with a focus on:
-
-- Nx Monorepo workspace organization
-- NgRx Signals for state management
-- CallState pattern for tracking asynchronous operations
-- API Client abstraction layer
-- Authentication and article data management
-- Smart vs. Dumb component patterns
-- Form error handling mechanisms
-- E2E testing with Playwright
-
-This version provides additional insights into testing strategies and component architecture with 11 detailed chapters.
+Each chapter provides in-depth analysis of specific architectural aspects, implementation patterns, and best practices.
 
 ## How to Use
 
-Each tutorial folder contains:
+Each tutorial contains:
 
 1. An `index.md` file providing an overview of the application
 2. Individual chapter files exploring specific architectural aspects
-3. Diagrams illustrating relationships between components
+3. Detailed code examples and explanations
+4. Best practices and architectural patterns
 
 ## About AI Codebase Knowledge Generator
 
